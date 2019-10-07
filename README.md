@@ -22,7 +22,7 @@ I decided to post a Reddit missed connection in the "Burning Man Missed Connecti
 **2. Black Sands Beach -** A clothing optional beach on the north side of the Golden Gate Bridge.
 [Link](https://www.californiabeaches.com/beach/black-sands-beach-marin-headlands/)
 
-**3. Folsom District -** Leave it to the gays to fly the biggest, rainbow flag in the city of San Francisco. Travel to this area on the F train if you are looking for a cool, retro way of intercity travel
+**3. Folsom District -** Leave it to the gays to fly the biggest, rainbow flag in the city of San Francisco. Travel to this area on the F train if you are looking for a cool, retro way of intercity travel.
 
 **4. Archimedes "Baynas" -** This bathhouse is nestled on the edge of the bay water in the south east side of San Francisco. A russian, nude/clothing optional bathhouse that includes a full bar and restuarant. A chic amazing experience to pamper yourself and take a day at the spa. Weekends can get crowded so get there early!
 [Link](http://www.banyasf.com/)
@@ -31,8 +31,7 @@ I decided to post a Reddit missed connection in the "Burning Man Missed Connecti
 [Link](https://www.yelp.com/biz/aunt-charlies-lounge-san-francisco)
 
 
-The aforementioned Reddit post can be found at: 
-[Link](https://www.reddit.com/r/BurningMan/comments/cyuf4u/missed_connections/eyv2bph/)
+The aforementioned Reddit post can be found [Here](https://www.reddit.com/r/BurningMan/comments/cyuf4u/missed_connections/eyv2bph/)
 
 
 <!---You can use the [editor on GitHub](https://github.com/huckgreen/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
