@@ -4,11 +4,7 @@
 ### Header 3
 -->
 
-# Welcome to Huck's Travel Blog
-
-```markdown
-```
-## My Most Recent Adventure
+## Welcome to Huck's Travel Blog
 
 ```markdown
 A Weekend in San Francisco 
