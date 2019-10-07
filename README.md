@@ -11,7 +11,8 @@
 ## My Most Recent Adventure
 
 ```markdown
-### A Weekend in San Francisco 
+A Weekend in San Francisco 
+```
 
 I decided to post a Reddit missed connection in the "Burning Man Missed Connections" thread following a fantastic week frolicking in the Nevada Desert. Through the wonders of new age technology, I was able to get in contact with my slightly elusive lover Max! He invited me to stay with him for a couple days at his house in Oakland and we explored the wonderful Bay Area. If you are traveling to the Bay Area here are some things I suggest that you check out! Hope this travel blog helps you on your adventures. 
 
@@ -33,7 +34,6 @@ I decided to post a Reddit missed connection in the "Burning Man Missed Connecti
 The aforementioned Reddit post can be found at: 
 [Link](https://www.reddit.com/r/BurningMan/comments/cyuf4u/missed_connections/eyv2bph/)
 
-```
 
 <!---You can use the [editor on GitHub](https://github.com/huckgreen/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
