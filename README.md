@@ -13,11 +13,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### My Most Recent Adventure
 
 <!---Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for-->
-<!---Syntax highlighted code block-->
 
-```markdown
+<!---```markdown
 
-# Missed Connection to San Francisco
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
 
 - Bulleted
 - List
@@ -30,7 +33,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
 
 ### Jekyll Themes
 
