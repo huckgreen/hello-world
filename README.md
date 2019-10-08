@@ -31,10 +31,10 @@ I decided to post a Reddit missed connection in the "Burning Man Missed Connecti
 The aforementioned Reddit post can be found [Here](https://www.reddit.com/r/BurningMan/comments/cyuf4u/missed_connections/eyv2bph/)
 
 
-Trail view of the stairway descent into **Black Sand Beach**     |    My favorite part of the hike, **The 16th Avenue Tiled Steps**
+Trail view of the stairway descent into **Black Sand Beach**     |      My favorite part of the hike, **The 16th Avenue Tiled Steps**
 
 
-  <img align="center" src="20191003_132152.jpg" width="407" >   |   <img align="center" src="20191005_114852.jpg" width="407" > 
+  <img align="center" src="20191003_132152.jpg" width="405" >   |   <img align="center" src="20191005_114852.jpg" width="405" > 
   
   More information about the tiled steps can be found [here](http://www.16thavenuetiledsteps.com/).
 
