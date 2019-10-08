@@ -34,7 +34,7 @@ The aforementioned Reddit post can be found [Here](https://www.reddit.com/r/Burn
  The view from the staircase descent, **Black Sand Beach**     |    My Favorite Part of the hike, **The 16th Avenue Tiled Steps**
 
 
-  <img align="center" src="20191003_132152.jpg" width="370" >   |   <img align="center" src="20191005_114852.jpg" width="370" > 
+  <img align="center" src="20191003_132152.jpg" width="380" >   |   <img align="center" src="20191005_114852.jpg" width="380" > 
   
   More information about the tiled steps can be found [here](http://www.16thavenuetiledsteps.com/).
 
