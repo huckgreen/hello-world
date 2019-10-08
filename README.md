@@ -1,11 +1,8 @@
-## How to use
-
-##### 1. Add the following to your build.gradle:
-```groovy
+groovy
 compile 'com.github.rubensousa:floatingtoolbar:1.5.1'
-```
+
 ##### 2. Add FloatingToolbar as a direct child of CoordinatorLayout and before the FloatingActionButton:
-```xml
+xml
 <android.support.design.widget.CoordinatorLayout 
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -33,12 +30,10 @@ compile 'com.github.rubensousa:floatingtoolbar:1.5.1'
         
         
 </android.support.design.widget.CoordinatorLayout>
-```
-##### 3. Specify a menu resource file or custom layout with app:floatingMenu or app:floatingCustomView
 
-You can also build a menu programmatically using FloatingToolbarMenuBuilder:
 
-```java
+
+java
  mFloatingToolbar.setMenu(new FloatingToolbarMenuBuilder(this)
                 .addItem(R.id.action_unread, R.drawable.ic_markunread_black_24dp, "Mark unread")
                 .addItem(R.id.action_copy, R.drawable.ic_content_copy_black_24dp, "Copy")
@@ -46,16 +41,12 @@ You can also build a menu programmatically using FloatingToolbarMenuBuilder:
                 .addItem(R.id.action_facebook, R.drawable.ic_facebook_box, "Facebook")
                 .addItem(R.id.action_twitter, R.drawable.ic_twitter_box, "Twitter")
                 .build());
-```
 
-##### 4. Attach the FAB to the FloatingToolbar to automatically start the transition on click event:
-
-```java
+java
 mFloatingToolbar.attachFab(fab);
-```
 
-##### 5. Set a click listener
-```java
+
+java
 mFloatingToolbar.setClickListener(new FloatingToolbar.ItemClickListener() {
             @Override
             public void onItemClick(MenuItem item) {
@@ -67,30 +58,20 @@ mFloatingToolbar.setClickListener(new FloatingToolbar.ItemClickListener() {
 
             }
         });
-```
 
-##### 6. If you want to show a snackbar in the same layout as the FloatingToolbar, please use:
-
-```java
+java
 mFloatingToolbar.showSnackBar(snackbar);
-```
 
-##### 7. (Optional) Attach a RecyclerView to hide the FloatingToolbar on scroll:
 
-```java
+java
 mFloatingToolbar.attachRecyclerView(recyclerView);
-```
 
-##### 8. (Optional) Use show() and hide() to trigger the transition anytime:
 
-```java
+java
 mFloatingToolbar.show();
 mFloatingToolbar.hide();
-```      
-  
-##### 9. (Optional) Add a MorphListener to listen to morph animation events
 
-```java
+java
 mFloatingToolbar.addMorphListener(new FloatingToolbar.MorphListener() {
     @Override
     public void onMorphEnd() {
@@ -112,7 +93,7 @@ mFloatingToolbar.addMorphListener(new FloatingToolbar.MorphListener() {
 
     }
 });
-``` 
+
 
 
 
