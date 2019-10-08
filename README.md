@@ -32,6 +32,6 @@ My favorite part of the walk was the 16th Avenue Tiled steps [Tiled Steps](http:
 The aforementioned Reddit post can be found [Here](https://www.reddit.com/r/BurningMan/comments/cyuf4u/missed_connections/eyv2bph/)
 
 ```
-![alt-text-1](20191005_114852.jpg "title-1") ![alt-text-2](image2.png "title-2")
+![alt-text-1](20191005_114852.jpg "title-1") ![alt-text-2](20191003_132152.jpg "title-2")
 
 ```
